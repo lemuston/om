@@ -1,5 +1,9 @@
-[gitlog.txt](gitlog.txt)
-[komentorivi.txt](komentorivi.txt)
+#Tehtävät
+
+##Viikko1
+
+* [gitlog.txt](gitlog.txt)
+* [komentorivi.txt](komentorivi.txt)
 
 # Uuno Turhapuron Tankaruno
 
