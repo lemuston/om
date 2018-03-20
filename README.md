@@ -1,4 +1,4 @@
-#Uuno Turhapuron Tankaruno#
+# Uuno Turhapuron Tankaruno
 
 *Kuu ja tähtet taivahalla vilkuttaa,
 renki tytön kanssa metsään nilkuttaa.
