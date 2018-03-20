@@ -1,0 +1,84 @@
+Laura-Air-2:~ laura$ cd otm_viikko1
+Laura-Air-2:otm_viikko1 laura$ git log --stat | cat
+commit c758d9c388aa8e04282bb84925e8018b25efd639
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:30:19 2018 +0200
+
+    filuja
+
+ tiedostoja/file22.txt | 0
+ tiedostoja/file3.txt  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d544793b52523c05a3760316eb40b7ca4250cbc2
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:19:18 2018 +0200
+
+    lisää muutoksia
+
+ tiedosto.txt | 17 -----------------
+ 1 file changed, 17 deletions(-)
+
+commit 4d4c9bd33157f8f6f459724eebafa1760ff50192
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:17:53 2018 +0200
+
+    nimen muutos
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 813ab8c78a1dd2d0824dfda13d824c94f84df244
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:15:34 2018 +0200
+
+    muutos
+
+ tiedosto.txt | 8 +++++---
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+
+commit 9e4e2aa63ea1b15abe25d45c23113cbbd8e45fd6
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:13:45 2018 +0200
+
+    manifesti
+
+ tiedosto.txt | 23 +++++++++++++++--------
+ 1 file changed, 15 insertions(+), 8 deletions(-)
+
+commit 4decc01b93027461d4a4a03f3bd7f3df50287e69
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 18:05:13 2018 +0200
+
+    juttuja
+
+ stuff/juttuja.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fbc87e0c769558bb19d7daa4b8060b7dcd5fcc1e
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 17:37:44 2018 +0200
+
+    kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a558ece315b7fbb49bc0cb4b7821499781df0108
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 17:34:20 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 8 ++++++++
+ toinen.txt   | 0
+ 2 files changed, 8 insertions(+)
+
+commit ed959482fd8c7713af4c286b414fe4d4f1f7160d
+Author: Laura Mustonen <laura.mustonen@cs.helsinki.fi>
+Date:   Tue Mar 20 16:44:52 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
