@@ -1,3 +1,6 @@
+[gitlog.txt](om/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](om/laskarit/viikko1/komentorivi.txt)
+
 # Uuno Turhapuron Tankaruno
 
 *Kuu ja tähtet taivahalla vilkuttaa,
