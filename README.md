@@ -1,4 +1,4 @@
-#Uuno Turhapuron Tankaruno
+#Uuno Turhapuron Tankaruno#
 
 *Kuu ja tähtet taivahalla vilkuttaa,
 renki tytön kanssa metsään nilkuttaa.
@@ -22,4 +22,4 @@ ilta ahavoituu rasvatyyneksi yöksi
 nainen vetää saappaat miehen jalasta
 rantakaislan päässä huojuu humaltunut sudenkorento
 
-*Jenni Haukio*
+**Jenni Haukio**
