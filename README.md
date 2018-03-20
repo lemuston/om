@@ -1,5 +1,5 @@
-[gitlog.txt](https://github.com/lemuston/om/laskarit/viikko1/gitlog.txt)
-[komentorivi.txt](https://github.com/lemuston/om/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
 
 # Uuno Turhapuron Tankaruno
 
