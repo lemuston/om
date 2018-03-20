@@ -9,6 +9,9 @@ poika häippää, taisi olla ninja
 Tyttö suree heti paljon Tapaniaan
 tapahtumat sijoittuvat tässä vanhaan Japaniaan.*
 
+_____________________________
+
+
 On ilta, nainen ja mies laskevat ahvenverkkoja
 merilokki hautoo laiturin tukipuiden alla
 kitukasvuiset koivut nyökkäilevät tuulen puuskittaisille kysymyksille
