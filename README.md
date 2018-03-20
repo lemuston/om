@@ -1,5 +1,5 @@
-[gitlog.txt](gitlog.txt)
-[komentorivi.txt](komentorivi.txt)
+[gitlog.txt](https://github.com/lemuston/om/gitlog.txt)
+[komentorivi.txt](https://github.com/lemuston/om/komentorivi.txt)
 
 # Uuno Turhapuron Tankaruno
 
