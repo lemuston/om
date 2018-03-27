@@ -11,6 +11,8 @@ public class Kassapaate {
         this.kassassaRahaa = 100000;
     }
 
+   
+
     public int syoEdullisesti(int maksu) {
         if (maksu >= 240) {
             this.kassassaRahaa = kassassaRahaa + 240;

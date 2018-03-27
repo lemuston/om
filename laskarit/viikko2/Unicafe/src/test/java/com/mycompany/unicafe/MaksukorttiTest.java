@@ -10,7 +10,7 @@ public class MaksukorttiTest {
 
     @Before
     public void setUp() {
-        kortti = new Maksukortti(10);
+        kortti = new Maksukortti(100);
     }
 
     @Test
@@ -21,13 +21,13 @@ public class MaksukorttiTest {
    @Test
     public void konstruktoriAsettaaSaldonOikein() {
         
-        assertEquals("saldo: 10", kortti.toString());
+        assertEquals("saldo: 100", kortti.toString());
     }
     
     @Test
     public void rahanLataaminenKasvattaaSaldoaOikein() {
         kortti.lataaRahaa(25);
-        assertEquals("Kortilla on rahaa 35.0.0 euroa", kortti.toString());
+        assertEquals("Kortilla on rahaa 35.0 euroa", kortti.toString());
     }
     
     @Test

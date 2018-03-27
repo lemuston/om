@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 #Tehtävät
 
 ##Viikko1
 
 * [gitlog.txt](gitlog.txt)
 * [komentorivi.txt](komentorivi.txt)
+=======
+[gitlog.txt](/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+>>>>>>> d5b0bea5bdd05779c061fd8281ff3cc12d28db19
 
 # Uuno Turhapuron Tankaruno
 
@@ -16,20 +21,3 @@ poika häippää, taisi olla ninja
 Tyttö suree heti paljon Tapaniaan
 tapahtumat sijoittuvat tässä vanhaan Japaniaan.*
 
-_____________________________
-
-
-On ilta, nainen ja mies laskevat ahvenverkkoja
-merilokki hautoo laiturin tukipuiden alla
-kitukasvuiset koivut nyökkäilevät tuulen puuskittaisille kysymyksille
-lahdella kaartelee yksinäinen pilkkasiipi
-Vastakuoriutuneiden kolmipiikkien parvi lävistää vedenpinnan
-tuvan ikkuna huurtuu koiran uteliaasta hengityksestä
-
-lämpenevän saunan lauhkea savu kutsuu kalastajat maihin,
-ilta ahavoituu rasvatyyneksi yöksi
-
-nainen vetää saappaat miehen jalasta
-rantakaislan päässä huojuu humaltunut sudenkorento
-
-**Jenni Haukio**
