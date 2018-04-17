@@ -3,16 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pubivisaUi;
+package pubivisaapp.ui;
 
 import pubivisa.domain.Question;
-import pubivisa.dao.QuestionDao;
 
 /**
  *
  * @author laura
  */
-public class Main {
+public class PubivisaUi {
 
     /**
      * @param args the command line arguments
@@ -21,11 +20,11 @@ public class Main {
         
         Question eka = new Question("mikä on Angolan pääkaupunki?", "Luanda");
         Question toka = new Question("mikä on maailman korkein rakennus?", "Burj Khalifa");
-        eka.getContent();
+   /*     eka.getContent();
         eka.getAnswer();
         
         toka.getContent();
-        toka.getAnswer();
+        toka.getAnswer(); */
     }
     
 }

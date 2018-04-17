@@ -10,7 +10,7 @@ public class MaksukorttiTest {
 
     @Before
     public void setUp() {
-        kortti = new Maksukortti(100);
+        kortti = new Maksukortti(10);
     }
 
     @Test
