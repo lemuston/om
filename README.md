@@ -22,6 +22,7 @@ Alkuvaiheessa sovelluksella on ainoastaan yksi käyttäjärooli eli normaali k�
 ## Jatkokehitysideoita
 - Sovellus näyttää yhden kysymyksen kerrallaan ja vastaus tulee näkyviin 20 sekunnin kuluessa jolloin kysymys vaihtuu seuraavaan.
 
+_____________________
 
 * [gitlog.txt](gitlog.txt)
 * [komentorivi.txt](komentorivi.txt)
