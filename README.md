@@ -1,16 +1,37 @@
-<<<<<<< HEAD
-#Tehtävät
+# Pubivisa
 
-##Viikko1
+## Sovelluksen tarkoitus
+Pubivisa sovellus antaa kirjautuneelle käyttäjälle pubivisakysymyksiä ja niiden vastauksia. Vastauksen saa näkyville vastausnapista. Käyttäjät voivat myös luoda uusia kysymyksiä.
+
+## Käyttäjät
+Alkuvaiheessa sovelluksella on ainoastaan yksi käyttäjärooli eli normaali käyttäjä. Myöhemmin sovellukseen saatetaan lisätä suuremmilla oikeuksilla varustettu pääkäyttäjä.
+
+## Perusversion tarjoama toiminnallisuus
+
+### Ennen kirjautumista
+- käyttäjä voi luoda uuden käyttäjätunnuksen
+- Käyttäjätunnuksen tulee olla uniikka ja pituudeltaan vähintään 3 merkkiä
+- Käyttäjä kirjautuu järjestelmään syöttämällä käyttäjätunnusen ja salasanan. Jos kirjautuminen ei onnistu järjestelmä ilmoittaa kirjautumisen epäonnistumisesta.
+
+### Kirjautumisen jälkeen
+- Käyttäjä näkee vain kysymykset joita muut käyttäjät ovat luoneet
+- Käyttäjä voi luoda uuden kysymyksen mikä näkyy muille käyttäjille
+- Käyttäjä voi yrittää miettiä vastausta jonkin aikaa
+- Vastauksen saa näkyville vastaus-napista.
+
+## Jatkokehitysideoita
+- Sovellus näyttää yhden kysymyksen kerrallaan ja vastaus tulee näkyviin 20 sekunnin kuluessa jolloin kysymys vaihtuu seuraavaan.
+
+_____________________
 
 * [gitlog.txt](gitlog.txt)
 * [komentorivi.txt](komentorivi.txt)
 =======
 [gitlog.txt](/laskarit/viikko1/gitlog.txt)
 [komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
->>>>>>> d5b0bea5bdd05779c061fd8281ff3cc12d28db19
 
-# Uuno Turhapuron Tankaruno
+
+### Uuno Turhapuron Tankaruno
 
 *Kuu ja tähtet taivahalla vilkuttaa,
 renki tytön kanssa metsään nilkuttaa.
